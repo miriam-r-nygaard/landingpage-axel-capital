@@ -1,0 +1,26 @@
+body {
+margin: auto;
+}
+h1 {
+font-size: 200px; 
+font-family: sans-serif;
+margin: 0.3em 1em;
+}
+div id="overskrift"{
+   font-family: 'Times New Roman', Times, serif;
+}
+p {
+   font-family: sans-serif;
+   color:white; 
+   font-size: 100px;
+   padding: 1.5em 0em 0em 0em; 
+   background-color: black;
+   margin: 0em 0em 0em 0em;
+}
+div id="link"{
+   font-family: Times
+   
+}
+img{
+   margin:0em 0em 0em 0em
+}
