@@ -1,13 +1,21 @@
 body {
 margin: auto;
 }
-h1 {
+
+.forste-overskrift {
 font-size: 200px; 
 font-family: sans-serif;
-margin: 0.3em 1em;
 }
-div {
+.anden-overskrift {
    font-family: 'Times New Roman', Times, serif;
+   font-size: 200px; 
+}
+#overskrifter, h1{
+   display:flex;
+   flex-direction: row;
+   justify-content: center;
+   /* Her skulle have været én "space-between", men det virkede ikke.*/
+      margin: 0.3em 1em;
 }
 p {
    font-family: sans-serif;
