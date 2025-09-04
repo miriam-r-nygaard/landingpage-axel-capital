@@ -14,7 +14,6 @@ font-family: sans-serif;
    display:flex;
    flex-direction: row;
    justify-content: center;
-   /* Her skulle have været én "space-between", men det virkede ikke.*/
       margin: 0.3em 1em;
       gap: 1em;
 }
