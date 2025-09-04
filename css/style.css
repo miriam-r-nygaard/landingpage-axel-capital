@@ -16,6 +16,7 @@ font-family: sans-serif;
    justify-content: center;
    /* Her skulle have været én "space-between", men det virkede ikke.*/
       margin: 0.3em 1em;
+      gap: 1em;
 }
 p {
    font-family: sans-serif;
